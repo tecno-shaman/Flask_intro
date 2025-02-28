@@ -1,0 +1,13 @@
+p {
+    font-size: 24px;
+    font-weight: 500
+}
+#n1, #n2, #n3, #n4, #n5 {
+    font-size: 24px;
+    font-weight: 500
+}
+#n1 {background-color: #d4edda; color: #155724}
+#n2 {background-color: #e2e3e5; color: black}
+#n3 {background-color: #fff3cd; color: #856404}
+#n4 {background-color: #fff3cd; color: #bb8b24}
+#n5 {background-color: #f8d7da; color: #721c24}
