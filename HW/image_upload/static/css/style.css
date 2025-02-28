@@ -1,0 +1,28 @@
+h1, p {
+    text-align: center
+}
+p {font-size: 26px}
+
+#n1, #n3 {background-color: #d6d8d9; color: black}
+#n2 {background-color: #d4edda; color: green}
+#n4 {background-color: #fff3cd; color: #bb8b24}
+#n5 {background-color: #f8d7da; color: red}
+
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffdab9;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+div.name_group {margin-bottom: 20px}
+
+#acceptRules {
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+.form-group img {width: 100%}
